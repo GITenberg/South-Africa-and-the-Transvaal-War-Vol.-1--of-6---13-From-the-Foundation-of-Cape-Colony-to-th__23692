@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25997'
     url: http://www.gutenberg.org/2009/agents/25997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23692#South-Africa-and-the-Transvaal-War-Vol.-1--of-6---13-From-the-Foundation-of-Cape-Colony-to-th_
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2007-12-03'
 gutenberg_type: Text
